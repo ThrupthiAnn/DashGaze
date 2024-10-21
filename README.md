@@ -1,5 +1,5 @@
 # DashGaze Dataset
-We introduce DashGaze, a large-scale dataset for training appearance-based gaze estimation models, featuring over 900,000 frames collected over 10 hours with 28 unique drivers. DashGaze includes synchronized views of the road, driver, and driver’s egocentric perspective, along with the driver’s gaze in both the driver and ego views.
+We introduce DashGaze, a large-scale dataset for training appearance-based gaze estimation models, featuring over 900,000 frames collected over 10 hours with 28 unique drivers. DashGaze includes synchronized views of the road, driver, and driver’s egocentric perspective, along with the driver’s gaze in both the driver and ego views. A sample of the dataset can be found here: [google drive](https://drive.google.com/drive/folders/10U3v5Jw78Px771UUStnWpke3AH99VoP8?usp=sharing)
 
 
 
